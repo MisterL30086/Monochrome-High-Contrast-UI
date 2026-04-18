@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "§7By §f§lNONAMER230\n§r§7MC Version - §f§l1.20.2-26.1.X",
+    "pack_format": 18,
+    "min_format": [18, 0],
+    "max_format": [84, 0],
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 64
+    }
+  }
+}
